@@ -37,12 +37,16 @@ I’m a certified **AWS & Azure Engineer** with deep experience in regulated ind
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)
 ![GCP](https://img.shields.io/badge/GCP-Cloud-red?logo=googlecloud)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-Cloud-blue?logo=digitalocean)
+![On-Prem](https://img.shields.io/badge/On--Premises-Infrastructure-grey)
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-red?logo=ansible)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-black?logo=jenkins)
 ![GitLab CI](https://img.shields.io/badge/GitLab-CI/CD-orange?logo=gitlab)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-Pipelines-blue?logo=azuredevops)
+![CircleCI](https://img.shields.io/badge/CircleCI-CI/CD-black?logo=circleci)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue?logo=githubactions)
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
@@ -52,6 +56,10 @@ I’m a certified **AWS & Azure Engineer** with deep experience in regulated ind
 ![Prometheus](https://img.shields.io/badge/Prometheus-Observability-orange?logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-yellow?logo=grafana)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-Logging-black?logo=elastic)
+
+![Palo Alto](https://img.shields.io/badge/Palo%20Alto-NGFW-critical?logo=paloaltonetworks)
+![Prisma Cloud](https://img.shields.io/badge/Prisma%20Cloud-Cloud%20Security-lightgrey)
+![Wiz](https://img.shields.io/badge/Wiz-Cloud%20Security-blue)
 
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow?logo=python)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-black?logo=gnubash)
